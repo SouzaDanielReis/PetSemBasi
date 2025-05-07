@@ -5,3 +5,7 @@ body {
             text-align: center;
         font-size: xx-large;
     font-family: monospace;}
+    label{
+        text-align: center;
+        font-family: monospace;
+    }
